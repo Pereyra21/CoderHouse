@@ -233,7 +233,7 @@ header nav a:hover::after {
 }
 
 .imgGaleria {
-  max-width: 300px;
+  max-width: 200px;
   transition: all 300ms;
   box-shadow: 0 0 10px rgb(0, 0, 0);
 }
